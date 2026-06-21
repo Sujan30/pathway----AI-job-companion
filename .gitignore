@@ -1,0 +1,40 @@
+# Secrets & keys
+.env
+.env.*
+.mcp.json
+
+# HydraDB
+.hydradb-plugin-data/
+
+# Playwright
+.playwright-mcp/
+
+# Resume / personal files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Project files (shared via other means)
+crm/
+hooks/
+server/
+setup.py
+start.sh
+CLAUDE.md
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor swap files
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
