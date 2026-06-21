@@ -15,13 +15,9 @@
 *.jpg
 *.jpeg
 
-# Project files (shared via other means)
-crm/
-hooks/
-server/
-setup.py
-start.sh
-CLAUDE.md
+# Runtime state
+server/data.json
+
 
 # Python
 venv/
